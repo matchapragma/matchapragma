@@ -1,16 +1,25 @@
-### Hi there 👋
+## ✨ hello hello ✨
+I'm Annie. I program yesyes! Disciple of [Moofo the Psychic Dogcow](https://web.archive.org/web/20040202021201/http://developer.apple.com/products/techsupport/dogcow/tn31.html)
 
-<!--
-**matchapragma/matchapragma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Specification:
+| Thing: | Value: |
+| --- | --- |
+| Processor | Bruhbrain Pro Max Ultra 😎 |
+| Memory | 1GB Brain (mostly runs on swap file, see Storage) |
+| Storage | 1TB Solid State Heart Drive 💖 |
+| Display | 360p, Optional 4K Glasses Attachment (sold separately) |
+| Operating System | yeaOS |
+| Battery | About 4 or 40 hours |
 
-Here are some ideas to get you started:
+#### langs ik:
+| language | yeas rating |
+| --- | --- |
+| C# | 😍😍😍😍😍 out of 5 |
+| Swift | i give it a [dogcow](https://web.archive.org/web/20040202021201/http://developer.apple.com/products/techsupport/dogcow/tn31.html) out of yea |
+| Lua | i likey |
+| C++ | im still learning pls have mercy ty |
+| JS | 😱😱😱🤢🤢🤢🤬🤬🤬 |
+| HTML | not a programming language teehee 😏 |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### license:
+take me out to dinner first, then we can discuss my source code teehee
