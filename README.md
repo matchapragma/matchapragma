@@ -17,7 +17,7 @@ I'm Annie. I program yesyes! Disciple of [Moofo the Psychic Dogcow](https://web.
 | C# | 😍😍😍😍😍 out of 5 |
 | Swift | i give it a [dogcow](https://web.archive.org/web/20040202021201/http://developer.apple.com/products/techsupport/dogcow/tn31.html) out of yea |
 | Lua | i likey |
-| C++ | im still learning pls have mercy ty |
+| C++ | i likey a lot actually woah |
 | JS | 😱😱😱🤢🤢🤢🤬🤬🤬 |
 | HTML | not a programming language teehee 😏 |
 
